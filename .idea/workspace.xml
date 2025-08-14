@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f96245fb-9c13-45fb-a08b-33099b8ea62e" name="Changes" comment="" />
+    <list default="true" id="f96245fb-9c13-45fb-a08b-33099b8ea62e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Distance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chain_extractor_gui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extracted_ligand_HEM.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/extracted_protein.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/open.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/print_ATOM.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/print_SEQRES.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_distance.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_protein.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp_uploaded.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/1a3n.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/without_HOH.pdb" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +29,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kruttikar12"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Kruttikar12/Protein_structure_analysis_tool.git",
@@ -85,16 +107,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Distance.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
