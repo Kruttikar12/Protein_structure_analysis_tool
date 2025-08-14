@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f96245fb-9c13-45fb-a08b-33099b8ea62e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Bioinformatics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chain_extractor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Distance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Distance_cutoff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H2O_removal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HETATM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Neighbouring_residues.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chain_extractor_gui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distance_cal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/distance_matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/open.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print_ATOM.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print_SEQRES.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/protein_extractor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/protein_gui.py" afterDir="false" />
-    </list>
+    <list default="true" id="f96245fb-9c13-45fb-a08b-33099b8ea62e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kruttikar12/Protein_structure_analysis_tool.git",
+    "accountId": "df8a0da0-31b7-4d0c-8c3e-5e71f754cf15"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/.venv/distance_calculator.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -70,7 +54,7 @@
     "Python.protein_extractor.executor": "Run",
     "Python.protein_gui.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">
